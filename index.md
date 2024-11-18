@@ -11,6 +11,6 @@ var myVar = "Hello, world!";
 ```
 
 #### Adding Markdown
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [x] ICBG Player
+- [x] With a lot of benefits
+- [ ] Do not share any knowledge
